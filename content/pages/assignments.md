@@ -49,7 +49,7 @@ Cultural Identity Part 1: Language, Dialects and Email
 
 Saville-Troike, Muriel. *The Ethnography of Communication.* Chap. 2 and 3.
 
-Donath, Judith. Identity and deception in the virtual community.([http://smg.media.mit.edu/people/judith/Identity/IdentityDeception.html](http://smg.media.mit.edu/people/judith/Identity/IdentityDeception.html))
+Donath, Judith. Identity and deception in the virtual community.({{% resource_link "e0482306-cd16-4b57-9cf9-feb7900a7676" "http://smg.media.mit.edu/people/judith/Identity/IdentityDeception.html" %}})
 
 Cherny, Lynn. *Conversation and Community*. Skim Chap. 4.
 
@@ -107,7 +107,7 @@ Databanks and Privacy
 
 Jeffrey Rosen. *The Unwanted Gaze*. Prologue and Chap. 2.
 
-Clarke, Roger. “[Introduction to Dataveillance and Information Privacy](http://www.rogerclarke.com/DV/Intro.html).”
+Clarke, Roger. “{{% resource_link "48c3880b-aba6-4c77-aeb7-d1c24141ae99" "Introduction to Dataveillance and Information Privacy" %}}.”
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -119,9 +119,9 @@ Visualizations: Depicting the Abstract and Mediated Self
 
 *LifeLines: Visualizing Personal Histories.*
 
-[Developing Legible Visualizations for Online Social Spaces](http://smg.media.mit.edu/papers/danah/HICSS2002.pdf) (HICSS2002.pdf)
+{{% resource_link "59234982-9eff-4541-9b35-8d465b121fb6" "Developing Legible Visualizations for Online Social Spaces" %}} (HICSS2002.pdf)
 
-Review exhibits shown for [Id/entity](http://identity.media.mit.edu/exhibition.html).
+Review exhibits shown for {{% resource_link "beb26dc3-dbec-48ab-a621-0924dd68c25b" "Id/entity" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
