@@ -4,8 +4,6 @@ description: ''
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/be19075f979f654fae54d014832306f2_HICSS2002.pdf
 file_size: 302415
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

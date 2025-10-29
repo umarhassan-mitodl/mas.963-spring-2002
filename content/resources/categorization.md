@@ -4,8 +4,6 @@ description: 'Lecture #2. Thinking about identity: categorization, prototypes, s
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/0b5ab7621c7b9f700b34fce994f11b1e_categorization.pdf
 file_size: 54170
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

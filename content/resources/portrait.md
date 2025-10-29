@@ -4,8 +4,6 @@ description: 'Lecture #11 :: portraying identity: portraiture in the 21st centur
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/a6b94c376869f0b1714e6a2bd6bc475f_portrait.pdf
 file_size: 42250
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

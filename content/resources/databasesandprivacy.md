@@ -4,8 +4,6 @@ description: 'Lecture #8: Databases and privacy'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/4f99c6d2cec17fb81b445f494a2289ec_databasesAndPrivacy.pdf
 file_size: 53863
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

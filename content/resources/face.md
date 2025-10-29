@@ -4,8 +4,6 @@ description: 'Lecture #5: the face'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/1008145ec60d7cebe99f57bbbe627428_face.pdf
 file_size: 53230
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

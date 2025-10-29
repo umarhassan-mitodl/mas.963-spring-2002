@@ -31,8 +31,7 @@
     "website": "mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002"
   },
   "course_title": "Techno-identity: Who we are and how we perceive ourselves and others",
-  "hide_download": true,
-  "course_description": "The nature of human identity - how we think of ourselves, how we perceive others - is a mutable concept, changing with the rise and fall of religious beliefs, social mores, philosophical theories. Today, we live in a world in which science and technology are among the most powerful forces reshaping our culture - and thus our definitions and perceptions of identity. In this seminar, we will examine the impact of science and technology on identity.\n\nThe instructor's course page may be viewed at [http://smg.media.mit.edu/classes/IdentitySeminar/](http://smg.media.mit.edu/classes/IdentitySeminar/)\n",
+  "course_description": "The nature of human identity - how we think of ourselves, how we perceive others - is a mutable concept, changing with the rise and fall of religious beliefs, social mores, philosophical theories. Today, we live in a world in which science and technology are among the most powerful forces reshaping our culture - and thus our definitions and perceptions of identity. In this seminar, we will examine the impact of science and technology on identity.\n\nThe instructor's course page may be viewed at {{% resource_link \"cc7a6e4d-c461-4e80-8a57-453455a8cd2d\" \"http://smg.media.mit.edu/classes/IdentitySeminar/\" %}}\n",
   "department_numbers": [
     "MAS"
   ],
@@ -42,7 +41,6 @@
     "content": "1f88400e-707c-2363-db96-5b86456bcfcb",
     "website": "mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "62394cdb-8855-4d12-81d5-686b5ab4c739",
   "site_short_id": "mas.963-spring-2002",

@@ -4,8 +4,6 @@ description: 'Assignment 2: Cultural Identity. Part 1: language, dialects and em
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/6640765c49489b310ee2107f252f798a_danah2.pdf
 file_size: 72426
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

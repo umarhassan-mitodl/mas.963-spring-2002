@@ -5,8 +5,6 @@ description: 'Assignment 3: cultural identity part 2: fashions in clothing, musi
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/dcc448b2fc7275c78523e25c7ec524cc_danah3.pdf
 file_size: 44108
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

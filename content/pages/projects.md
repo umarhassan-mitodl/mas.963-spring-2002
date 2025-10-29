@@ -3,8 +3,6 @@ content_type: page
 description: Includes seven student projects by [student] danah boyd that serve as
   examples of the work done for the class. The responses are based on the weekly assignments
   detailed in the Assignments section.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

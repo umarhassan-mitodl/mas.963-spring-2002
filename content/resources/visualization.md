@@ -4,8 +4,6 @@ description: 'Lecture #9 :: Visualization of Identity'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/4eced702ee907afc96044e672d433cbc_visualization.pdf
 file_size: 59141
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
